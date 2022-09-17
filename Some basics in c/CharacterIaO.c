@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    int c;
+
+    while((c = getchar()) != EOF)
+	putchar(c);
+    for (c = ' ' || c == '\t' || c == '\n')
+	
+}
+.
